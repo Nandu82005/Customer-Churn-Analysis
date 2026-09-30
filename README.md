@@ -32,10 +32,6 @@ Telco Customer Churn dataset (IBM sample data, available on Kaggle)
 - Add extra onboarding and check-ins during the first 12 months
 - Encourage automatic payment methods over electronic check
 - Bundle Tech Support and Online Security for fiber optic customers
-
-## Dashboard Preview
-![Overview](images/overview.png)
-
 ## How to Open
 Download the .pbix file and open it in Power BI Desktop.
 Update the data source path to the CSV in the `data` folder.
